@@ -1,0 +1,10 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "aws-sam-demo-app-booking"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-1j5bfb9ix50s7"
+s3_prefix = "aws-sam-demo-app-booking"
+region = "eu-west-1"
+confirm_changeset = true
+capabilities = "CAPABILITY_IAM"

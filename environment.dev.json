@@ -1,0 +1,6 @@
+{
+  "Parameters": {
+    "DYNAMO_TABLE": "aws-sam-demo-app-booking-Table-12BC2SKJCA97C",
+    "DISABLE_XRAY_TRACING": "1"
+  }
+}
